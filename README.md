@@ -92,6 +92,9 @@ The UCF50 dataset comprises the following 50 action categories:
 
 *Note: This list is directly derived from the UCF50 dataset.*
 
+## 5 Other actions added in UCF50 dataset contain the following action, as follows
+
+
 ---
 
 ## Installing Required Packages
